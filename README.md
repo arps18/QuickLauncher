@@ -20,9 +20,24 @@ Or click on __Clone or Download__ button and choose __Download ZIP__
 * __Insert__ your Links with your social media Handles.
 * And you're done! 
 
+Contributing
+------------
+
+Please refer to each project's style and contribution guidelines for submitting patches and additions. In general, we follow the "fork-and-pull" Git workflow.
+
+ 1. **Fork** the repo on GitHub
+ 2. **Clone** the project to your own machine
+ 3. **Create** your branch & have a standard for branch names.
+ 4. **Commit** changes to your own branch
+ 5. **Push** your work back up to your fork
+ 6. Submit a **Pull request** so that we can review your changes
+
+NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 
 
 ## Customize your own Extension & Share it with your Friends :smiley:
+------------
+  * You can share your Launcher with your friends and Family :)
 
 ## Functioning of the Extension :purple_heart:
 
