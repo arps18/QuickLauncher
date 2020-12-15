@@ -1,10 +1,10 @@
 {
     "manifest_version": 2,
-    "name": "Arps Launcher",
-    "description": "Quick Launch Arps",
+    "name": "Arps Launcher", //You can change your Launcher Name
+    "description": "Quick Launch Arps", 
     "version": "1.0.0",
     "icons": {
-        "128": "icon_128.png"
+        "128": "icon_128.png" //Name your Icon File here
     },
     "browser_action": {
         "default_icon": "icon.png",
